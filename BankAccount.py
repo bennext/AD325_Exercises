@@ -74,7 +74,7 @@ class BankAccount:
 #        if new_fee >= 0:
 #            self._transaction_fee = new_fee
 
-# test code 
+# test code
 
 tuna = BankAccount("ben")
 
